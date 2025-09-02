@@ -1,0 +1,4 @@
+struct Rgba8
+{
+
+};
